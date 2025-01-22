@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <!-- - 👯 I’m looking to collaborate on **-**
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at [-](-) -->
 
-- 💬 Ask me about **-** -->
+- 💬 Ask me about **C++, SFML, x86 Assembly, Irvine32, MASM, HTML, CSS**
 
 - 📫 How to reach me **moizansari2005@gmail.com**
 
