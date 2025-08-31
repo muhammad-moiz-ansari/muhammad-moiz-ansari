@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on **-** -->
 
-- 🌱 I’m currently learning **C++, SQL, CSS**
+- 🌱 I’m currently learning **C++, Python, Java**
 
 <!-- - 👯 I’m looking to collaborate on **-**
 
 - 👨‍💻 All of my projects are available at [-](-) -->
 
-- 💬 Ask me about **C++, SFML, x86 Assembly, Irvine32, MASM, HTML, CSS, SQL**
+- 💬 Ask me about **C++, SFML, x86 Assembly, Irvine32, MASM, HTML, CSS, SQL, Python**
 
 - 📫 How to reach me **moizansari2005@gmail.com**
 
