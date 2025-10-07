@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **moizansari2005@gmail.com**
 
-- 😄 Pronouns: **He/Him**
-
 <!-- - 📄 Know about my experiences [-](-) -->
 
 <h3 align="left">Connect with me:</h3>
