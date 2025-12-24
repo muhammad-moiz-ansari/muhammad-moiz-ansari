@@ -1,52 +1,73 @@
-<!--## Hi there 👋-->
+<div align="center">
+ 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Moiz+Ansari;System+Level+Programmer;C%2B%2B+%7C+Python+%7C+Assembly;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
 
-<!--
-**muhammad-moiz-ansari/muhammad-moiz-ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    I am a passionate developer currently exploring the depths of <b>Systems Programming</b> and <b>Data Structures</b>.
+  </p>
 
-Here are some ideas to get you started:
+  <p>
+    <a href="https://linkedin.com/in/muhammad-moiz-ansari" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://kaggle.com/muhammadmoizansari" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="https://www.leetcode.com/moiz_ansari_1417" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://instagram.com/ansari_1417" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:moizansari2005@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-<h1 align="center">Hi 👋, I'm Moiz Ansari</h1>
-<h3 align="center"></h3>
+---
 
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-moiz-ansari" alt="muhammad-moiz-ansari" /></a> </p>
--->
+### 🚀 Languages & Tools
 
-<!-- - 🔭 I’m currently working on **-** -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,bash,python,java,html,css,vscode,visualstudio&perline=10" alt="My Skills" />
+    <!-- Git, GitHub, SQLServer -->
+  </a>
+</div>
 
-- 🌱 I’m currently learning **C++, Python, Java**
+---
 
-<!-- - 👯 I’m looking to collaborate on **-**
+### 📊 GitHub Analytics
 
-- 👨‍💻 All of my projects are available at [-](-) -->
+<div align="center">
 
-- 💬 Ask me about **C++, SFML, x86 Assembly, Irvine32, MASM, HTML, CSS, SQL, Python**
+  <img align="left" width="30" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt="" />
 
-- 📫 How to reach me **moizansari2005@gmail.com**
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=muhammad-moiz-ansari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 
-<!-- - 📄 Know about my experiences [-](-) -->
+  <img align="right" width="30" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt="" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-moiz-ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-moiz-ansari" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhammadmoizansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadmoizansari" height="30" width="40" /></a>
-<a href="https://instagram.com/ansari_1417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansari_1417" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/moiz_ansari_1417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moiz_ansari_1417" height="30" width="40" /></a>
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-moiz-ansari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-moiz-ansari&show_icons=true&locale=en&layout=compact" alt="muhammad-moiz-ansari" /></p> 
+<br clear="both">
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-moiz-ansari&show_icons=true&locale=en" alt="muhammad-moiz-ansari" /></p>
+<div align="center">
+  <br>
+  <img src="https://github.com/muhammad-moiz-ansari/muhammad-moiz-ansari/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=muhammad-moiz-ansari&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
