@@ -62,8 +62,8 @@
 <!--
 <div align="center">
   <br>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=muhammad-moiz-ansari&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+   <img src="https://streak-stats.demolab.com?user=muhammad-moiz-ansari&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
 -->
