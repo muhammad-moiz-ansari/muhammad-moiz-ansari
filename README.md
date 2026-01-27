@@ -43,21 +43,22 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
 
   <!--<img align="left" width="5" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt="" />-->
-
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=muhammad-moiz-ansari&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
+    <img align="center" height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=muhammad-moiz-ansari&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
   </a>
-
-  <!--<img align="right" width="5" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt="" />-->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-moiz-ansari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-
 </div>
+  
+  <br>
+  <!--<img align="right" width="5" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt="" />-->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-moiz-ansari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+</div>
+
 
 <!--
 <div align="center">
