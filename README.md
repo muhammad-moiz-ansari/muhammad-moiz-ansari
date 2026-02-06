@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,bash,python,java,html,css,vscode,visualstudio&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,bash,python,java,html,css,javascript,vscode,visualstudio&perline=10" alt="My Skills" />
     <!-- Git, GitHub, SQLServer -->
   </a>
 </div>
