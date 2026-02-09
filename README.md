@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Languages & Tools
+### Languages & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
