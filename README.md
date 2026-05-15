@@ -9,6 +9,7 @@
     I am a passionate developer currently exploring the depths of <b>Systems Programming</b> and <b>Data Structures</b>.
   </p>
 
+  <!-- ========================== SOCIAL MEDIA LINKS ========================== -->
   <p>
     <a href="https://linkedin.com/in/muhammad-moiz-ansari" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -46,6 +47,8 @@
 
 
   <!--<img align="left" width="5" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt="" />-->
+  
+<!-- ========================== TOP LANGUAGES ========================== -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=muhammad-moiz-ansari&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
@@ -54,13 +57,15 @@
   
   <br>
   <!--<img align="right" width="5" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt="" />-->
+
+<!-- ========================== GITHUB STATS ========================== -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-moiz-ansari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   </a>
 </div>
 
-
+<!-- ========================== GITHUB STREAK ========================== -->
 <div align="center">
   <br>
   <a href="https://git.io/streak-stats">
@@ -71,11 +76,13 @@
 <br clear="both">
 <br>
 
+<!-- ========================== SNAKE ANIMATION ========================== -->
 <div align="center">
   <br>
   <img src="https://github.com/muhammad-moiz-ansari/muhammad-moiz-ansari/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
+<!-- ========================== PROFILE VIEWS ========================== -->
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=muhammad-moiz-ansari&style=flat-square&color=blueviolet" alt="Profile Views" />
