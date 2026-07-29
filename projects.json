@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Disaster Management System",
+    "repo": "muhammad-moiz-ansari/Disaster_Management_System",
+    "description": "",
+    "tags": ["Java"]
+  },
+  {
+    "name": "Pet Store",
+    "repo": "muhammad-moiz-ansari/pet-store",
+    "description": "Forked from MuhammadDaniyal/pet-store",
+    "tags": ["TypeScript"]
+  },
+  {
+    "name": "TravelEase DBMS",
+    "repo": "muhammad-moiz-ansari/TravelEase-Database-Management-System",
+    "description": "",
+    "tags": ["C#"]
+  },
+  {
+    "name": "Centipede Game Remake",
+    "repo": "muhammad-moiz-ansari/Centipede-Game-Remake",
+    "description": "This project recreates classic Centipede game as part of our Programming Fundamentals coursework using C++. Over a month, I implemented core features, enhanced with modern textures and sprites via ...",
+    "tags": ["C++"]
+  },
+  {
+    "name": "Terminal-Based Notepad",
+    "repo": "muhammad-moiz-ansari/Terminal-Based-Notepad",
+    "description": "Quad Directional Linked List Notepad",
+    "tags": ["C++"]
+  },
+  {
+    "name": "AirControlX OS",
+    "repo": "muhammad-moiz-ansari/AirControlX-OS",
+    "description": "",
+    "tags": ["C++"]
+  }
+]
