@@ -43,47 +43,35 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-
-  <!--<img align="left" width="5" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt="" />-->
-  
-<!-- ========================== TOP LANGUAGES ========================== -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=muhammad-moiz-ansari&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
-  </a>
-</div>
-  
-  <br>
-  <!--<img align="right" width="5" height="175" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" alt="" />-->
-
 <!-- ========================== GITHUB STATS ========================== -->
+
+### GitHub Analytics
+
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammad-moiz-ansari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </a>
+
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=muhammad-moiz-ansari&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=muhammad-moiz-ansari&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Arif's streak" />
+</picture>
+
+<br/>
+
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=muhammad-moiz-ansari&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=muhammad-moiz-ansari&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Arif's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=muhammad-moiz-ansari&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=muhammad-moiz-ansari&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
 </div>
 
-<!-- ========================== GITHUB STREAK ========================== -->
-<div align="center">
-  <br>
-  <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=muhammad-moiz-ansari&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br clear="both">
-<br>
 
 <!-- ========================== SNAKE ANIMATION ========================== -->
 <div align="center">
   <br>
   <img src="https://github.com/muhammad-moiz-ansari/muhammad-moiz-ansari/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<!-- ========================== PROFILE VIEWS ========================== -->
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=muhammad-moiz-ansari&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
