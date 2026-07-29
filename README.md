@@ -74,3 +74,11 @@
   <br>
   <img src="https://github.com/muhammad-moiz-ansari/muhammad-moiz-ansari/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
+<!-- ======= End Snake ====== -->
+
+<!-- ========================== PROJECTS PANEL ========================== -->
+<br/>
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/projects/projects.svg" alt="Projects" />
+</div>
