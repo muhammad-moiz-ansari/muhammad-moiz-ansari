@@ -2,37 +2,37 @@
   {
     "name": "Disaster Management System",
     "repo": "muhammad-moiz-ansari/Disaster_Management_System",
-    "description": "",
-    "tags": ["Java"]
+    "description": "Desktop platform coordinating disaster response among admins, citizens, NGOs, and rescue teams.",
+    "tags": ["Java", "TSQL"]
   },
   {
     "name": "Pet Store",
     "repo": "muhammad-moiz-ansari/pet-store",
-    "description": "Forked from MuhammadDaniyal/pet-store",
-    "tags": ["TypeScript"]
+    "description": "Full-stack e-commerce and vet platform for pet adoption, shopping, and booking appointments.",
+    "tags": ["TypeScript", "CSS"]
   },
   {
     "name": "TravelEase DBMS",
     "repo": "muhammad-moiz-ansari/TravelEase-Database-Management-System",
-    "description": "",
+    "description": "Centralized platform connecting travelers, tour operators, hotels, and guides for trip planning.",
     "tags": ["C#"]
   },
   {
     "name": "Centipede Game Remake",
     "repo": "muhammad-moiz-ansari/Centipede-Game-Remake",
-    "description": "This project recreates classic Centipede game as part of our Programming Fundamentals coursework using C++. Over a month, I implemented core features, enhanced with modern textures and sprites via ...",
+    "description": "C++ arcade remake using SFML with a space shooter theme, custom sprites, and dynamic speed.",
     "tags": ["C++"]
   },
   {
     "name": "Terminal-Based Notepad",
     "repo": "muhammad-moiz-ansari/Terminal-Based-Notepad",
-    "description": "Quad Directional Linked List Notepad",
+    "description": "Console text editor built with a 2D linked list and stack-based undo/redo functionality.",
     "tags": ["C++"]
   },
   {
     "name": "AirControlX OS",
     "repo": "muhammad-moiz-ansari/AirControlX-OS",
-    "description": "",
+    "description": "Automated air traffic control simulation using C/C++ multithreading, IPC, and real-time math.",
     "tags": ["C++"]
   }
 ]
