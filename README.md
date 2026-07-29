@@ -80,5 +80,5 @@
 <br/>
 <br/>
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/projects/projects.svg" alt="Projects" />
+<img width="100%" src="https://raw.githubusercontent.com/muhammad-moiz-ansari/muhammad-moiz-ansari/projects/projects.svg" alt="Projects" />
 </div>
