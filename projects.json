@@ -2,24 +2,28 @@
   {
     "name": "Disaster Management System",
     "repo": "muhammad-moiz-ansari/Disaster_Management_System",
+    "logo": "dms.png",
     "description": "Desktop platform coordinating disaster response among admins, citizens, NGOs, and rescue teams.",
     "tags": ["Java", "TSQL"]
   },
   {
     "name": "Pet Store",
     "repo": "muhammad-moiz-ansari/pet-store",
+    "logo": "petstore.png",
     "description": "Full-stack e-commerce and vet platform for pet adoption, shopping, and booking appointments.",
     "tags": ["TypeScript", "CSS"]
   },
   {
     "name": "TravelEase DBMS",
     "repo": "muhammad-moiz-ansari/TravelEase-Database-Management-System",
+    "logo": "travelease.png",
     "description": "Centralized platform connecting travelers, tour operators, hotels, and guides for trip planning.",
     "tags": ["C#"]
   },
   {
     "name": "Centipede Game Remake",
     "repo": "muhammad-moiz-ansari/Centipede-Game-Remake",
+    "logo": "centipede.png",
     "description": "C++ arcade remake using SFML with a space shooter theme, custom sprites, and dynamic speed.",
     "tags": ["C++"]
   },
