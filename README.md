@@ -45,8 +45,6 @@
 
 <!-- ========================== GITHUB STATS ========================== -->
 
-### GitHub Analytics
-
 <div align="center">
 
 <!-- Streak — full width -->
@@ -68,6 +66,8 @@
 </picture>
 
 </div>
+
+---
 
 <!-- ========================== SNAKE ANIMATION ========================== -->
 <div align="center">
